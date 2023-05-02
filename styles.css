@@ -1,5 +1,5 @@
 header {
-	background-image: url(https://github.com/SicMundo/SicMundo.github.io/blob/main/header-background.jpg);
+	background-image: url('https://raw.githubusercontent.com/SicMundo/SicMundo.github.io/main/header-background.jpg');
 	background-size: cover;
 	position: fixed;
 	top: 0;
@@ -105,14 +105,14 @@ header {
   }
   
   .inicio {
-	background-image: url('/SicMundus/sicmundus/1f6a2afd8d97a871655e670f2e852746.png');
+	background-image: url('https://raw.githubusercontent.com/SicMundo/SicMundo.github.io/main/1f6a2afd8d97a871655e670f2e852746.png');
 	background-size: cover;
 	background-position: center;
 	margin-top: 150px;
   }
   
   .contacto {
-	background-image: url('/SicMundus/sicmundus/327175670_708380204003264_4506996979071971874_n.jpg');
+	background-image: url('https://raw.githubusercontent.com/SicMundo/SicMundo.github.io/main/327175670_708380204003264_4506996979071971874_n.jpg');
 	background-size: cover;
 	background-position: center;
 	background-color: #222;
@@ -120,7 +120,7 @@ header {
   }
   
   .acerca-de {
-	background-image: url('/SicMundus/sicmundus/dc48440c07734525fdef96b947e43c05.jpg');
+	background-image: url('https://raw.githubusercontent.com/SicMundo/SicMundo.github.io/main/dc48440c07734525fdef96b947e43c05.jpg');
 	background-size: cover;
 	background-position: center;
 	background-color: #444;
@@ -129,7 +129,7 @@ header {
   }
 
   footer {
-	background-image: url('https://github.com/SicMundo/SicMundo.github.io/blob/main/header-background4.jpg');
+	background-image: url('https://raw.githubusercontent.com/SicMundo/SicMundo.github.io/main/header-background4.jpg');
 	background-size: cover;
 	position: fixed;
 	bottom: 0;
